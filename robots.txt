@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-w7gtx4.nottinghamshirenaturelakes.co.uk/sitemap.xml
